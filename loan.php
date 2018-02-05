@@ -25,7 +25,23 @@
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="image/home.jpg" alt="Generic placeholder image">
+            
         </div>
+          
+          <div>
+              <form>
+                  First Name: <input type="text" name="fname" value="first name">
+                  
+                  Last Name: <input type="text" name="lname" value="last name">
+                  
+                  National Id: <input type="text" name="nationalid" value="national id">
+                 
+                  Email: <input type="text" name="email" value="email">
+                  
+                  Education: <input type="text" name="education" value="education">
+                  </form>
+          </div>
+          
       </div>
      </div>
     </section>
