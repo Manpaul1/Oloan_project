@@ -7,7 +7,7 @@
                   <a class="nav-link active" href="#">Home</a>
                   <a class="nav-link" href="#">Loans</a>
                   <a class="nav-link" href="#">Contact</a>
-                  <a class="nav-link" href="#">About Us</a>
+                  <a class="nav-link" href="aboutus.php">About Us</a>
                 </nav>
               </div>
             </div>
