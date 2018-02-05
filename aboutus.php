@@ -15,7 +15,7 @@
               <p class="lead">Why Oloan?<br>Online Loan System is the system which provide students to request and get responds of loan in online which make the loan system easy to use and students to get loan ealy than using manual system which cost more time in responding students requests.
               These can be accomplished by fill up the loan application form and wait for approval
               from our loan officers and you would have your loan on time</p>
-            </div><!-- ends col-6-->  
+            </div><!-- ends col-6-->
         </div>
 
          <div class="row" id="absolute">
@@ -26,22 +26,22 @@
               </p>
 
               <p class="lead">Mission Statement <br>
-              The Institute of Finance Management will endeavour to provide quality academic and professional training that nurture creativity and innovation through integrated training, research and consultancy in financial studies and related disciplines. 
+              The Institute of Finance Management will endeavour to provide quality academic and professional training that nurture creativity and innovation through integrated training, research and consultancy in financial studies and related disciplines.
               </p>
-            </div><!-- ends col-6-->  
+            </div><!-- ends col-6-->
         </div>
-       
-            
-       
+
+
+
     <script type="text/javascript">
       document.getElementById("field_terms").setCustomValidity("Please indicate that you accept the Terms and Conditions");
     </script>
-         
-                
+
+
  </body>
 </html>
 
-               
+
 
   </div>
 </section>
