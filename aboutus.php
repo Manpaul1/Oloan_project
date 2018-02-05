@@ -45,22 +45,6 @@
 
   </div>
 </section>
-<section class="container-fluid">
-<hr class="featurette-divider">
-<div class="container-fluid" >
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="page-header">How to Apply for a loan.<br>
-             <span class="text-muted">It's Easy</span></h2>
-          <p class="lead">YEs! you just need a Membership account and then after being full Registred<br>You will fill up the loan application form and wait for approval
-        from our loan officers<br> and you would have your loan in no time</p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-fluid mx-auto" src="image/home.jpg" alt="Generic placeholder image">
-        </div>
-      </div>
-     </div>
-    </section>
 
 <!--Footer-->
 <footer id="footer">
