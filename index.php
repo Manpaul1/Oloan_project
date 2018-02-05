@@ -5,7 +5,7 @@
     </head>
 <body>
     <!--Header-->
-  <?php require_once 'templates/heading.php';?>
+  <?php require_once 'headings/index_header.php';?>
 <!--here a registration form starts-->
 <div class="container">
 </div>
