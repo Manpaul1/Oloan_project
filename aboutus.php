@@ -23,7 +23,7 @@
 
               <p class="lead">Vision Statement <br>
              Vision. to be a centre of excellence for the provision of loans to 
-             needy and eligible Tanzanian students of higher learning institutions.
+             needy and eligible Tanzanian students of higher learning institutions.All student who qualify should get loan.loan should be provided to the students who are not able to afford the cost of study
               </p>
 
               <p class="lead">Mission Statement <br>
