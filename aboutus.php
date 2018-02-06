@@ -14,7 +14,7 @@
 
               <p class="lead">Why Oloan?<br>Online Loan System is the system which provide students to request and get responds of loan in online which make the loan system easy to use and students to get loan ealy than using manual system which cost more time in responding students requests.
               These can be accomplished by fill up the loan application form and wait for approval
-              from our loan officers and you would have your loan on time</p>
+              from our loan officers and you would have your loan on time .Also you must qualify before you get loan.You must have qualifications which will be as evidence in loan aapplication.</p>
             </div><!-- ends col-6-->
         </div>
 
