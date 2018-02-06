@@ -7,50 +7,31 @@
     <!--Header-->
   <?php require_once 'headings/index_header.php';?>
 <!--here a registration form starts-->
-<section class="container-fluid">
 <div class="container">
-        <div class="row" id="absolute">
-            <div class="col-md-12">
+</div>
 
-              <p class="lead">Why Oloan?<br>Online Loan System is the system which provide students to request and get responds of loan in online which make the loan system easy to use and students to get loan ealy than using manual system which cost more time in responding students requests.
-              These can be accomplished by fill up the loan application form and wait for approval
-              from our loan officers and you would have your loan on time</p>
-            </div><!-- ends col-6-->
         </div>
-
-         <div class="row" id="absolute">
-            <div class="col-md-12">
-
-              <p class="lead">Vision Statement <br>
-             Vision. to be a centre of excellence for the provision of loans to 
-             needy and eligible Tanzanian students of higher learning institutions.
-              </p>
-
-              <p class="lead">Mission Statement <br>
-              Mission. to put in place a well managed and sustained revolving students’ loan fund to 
-              enhance access to higher education by needy and eligible Tanzanian students’
-              </p>
-              <p class="lead">Core Value<br>
-              The core values which will guide HESLB in achieving its objectives are;team work,transparency, 
-              accountability, commitment, integrity, and equity.
-              </p>
-            </div><!-- ends col-6-->
-        </div>
-
-
-
-    <script type="text/javascript">
-      document.getElementById("field_terms").setCustomValidity("Please indicate that you accept the Terms and Conditions");
-    </script>
-
-
- </body>
-</html>
-
-
-
-  </div>
+    </div>
 </section>
+<section class="container-fluid">
+<hr class="featurette-divider">
+<div class="container-fluid" >
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="page-header">Welcome! Please provide for us details. Make sure you fill the required boxs in the form below<br>
+             <span class="text-muted">It's Easy</span></h2>
+          <p class="lead"><br>You will fill up the loan application form and wait for approval
+        from our loan officers<br> and you would have your loan in no time</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-fluid mx-auto" src="image/home.jpg" alt="Generic placeholder image">
+
+        </div>
+          
+
+      </div>
+     </div>
+    </section>
 
 <!--Footer-->
 <footer id="footer">

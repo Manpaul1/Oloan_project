@@ -8,7 +8,12 @@
   <?php require_once 'templates/heading.php';?>
 <!--here a registration form starts-->
 <div class="container">
+<?php
+if(isset($_POST['submitted'])){
+   header("Location: index.php");
+}
 
+?>
                 <div class="col-md-5">
                     <legend class="text-center">For A Registred Member</legend>
             <!--login form starts here -->
@@ -77,7 +82,7 @@
                                 <div class="row" style="padding-top: 1rem">
                                     <div class="col-md-6"></div>
                                     <div class="col-md-12">
-                                        <button type="submit" class="btn btn-success"><i class="fa fa-sign-in"></i> Login</button>
+                                        <button type="submit" name="submitted" class="btn btn-success"><i class="fa fa-sign-in"></i> Login</button>
                                         <a class="btn btn-link" href="/password/reset">Forgot Your Password?</a>
                                     </div>
                                 </div>

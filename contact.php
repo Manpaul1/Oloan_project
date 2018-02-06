@@ -5,7 +5,7 @@
     </head>
 <body>
     <!--Header-->
-  <?php require_once 'templates/heading.php';?>
+  <?php require_once 'headings/heading.php';?>
 <!--here a registration form starts-->
 <div class="container">
 
@@ -27,6 +27,15 @@
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="image/home.jpg" alt="Generic placeholder image">
         </div>
+          
+         <div>
+             <h1>Contact Us</h1>
+             <br>
+             <p>
+                 We are available in week days, Monday to Friday. <br>
+                 <br>Please! Feel free to contact us through this number 0656 504157
+             </p>
+             </div>
       </div>
      </div>
     </section>

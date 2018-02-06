@@ -14,7 +14,7 @@
                 <fieldset><legend class="text-center">Valid information is required to register. <span class="req"><small> required *</small></span></legend>
 
                 <div class="form-group">
-                <label for="phonenumber"><span class="req">* </span> Phone Number: </label>
+                <label for="phonenumber"><span class="req">* </span> Dial Number: </label>
                         <input required type="text" name="phonenumber" id="phone" class="form-control phone" maxlength="28" onkeyup="validatephone(this);" placeholder="not used for marketing"/>
                 </div>
 
@@ -36,7 +36,7 @@
                             <div class="status" id="status"></div>
                 </div>
                 <div class="form-group">
-                        <label class="col-lg-3 control-label"><span class="req"></span>Are You Employed?</label>
+                        <label class="col-lg-3 control-label"><span class="req"></span>are you Employed?</label>
                             <div class="radio">
                                 <label>
                                     <input type="radio" name="employment" value="yes" /> <span class="req"></span>yes
