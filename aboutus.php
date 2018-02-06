@@ -31,7 +31,7 @@
               enhance access to higher education by needy and eligible Tanzanian students’
               </p>
               <p class="lead">Core Value<br>
-              The core values which will guide HESLB in achieving its objectives are;team work,transparency, 
+              The core values which will guide Oloan in achieving its objectives are;team work,transparency, 
               accountability, commitment, integrity, and equity.
               </p>
             </div><!-- ends col-6-->
