@@ -137,3 +137,11 @@ span.req {
 #span3 ul li{
   list-style:none;
 }
+
+.unstyled{
+  padding: 0 !important;
+}
+
+.featurette .col-md-7:first-child{
+   padding-top: 40px !important;
+}
