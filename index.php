@@ -22,7 +22,7 @@
              <span class="text-muted">It's Easy</span></h2>
           <p class="lead">YEs! you just need a Membership account and then after being full Registred<br>You will fill up the loan application form and wait for approval
         from our loan officers<br> and you would have your loan in no time</p>
-        </div>
+        <p class="lead">Once you have got the Membership account. You can now use our loan benefits and wait for it!!<br> and you would have your loan in no time</p></div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="image/home.jpg" alt="Generic placeholder image">
         </div>
