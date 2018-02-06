@@ -36,7 +36,7 @@
                             <div class="status" id="status"></div>
                 </div>
                 <div class="form-group">
-                        <label class="col-lg-3 control-label"><span class="req"></span>Are You Employed?</label>
+                        <label class="col-lg-3 control-label"><span class="req"></span>are you Employed?</label>
                             <div class="radio">
                                 <label>
                                     <input type="radio" name="employment" value="yes" /> <span class="req"></span>yes
