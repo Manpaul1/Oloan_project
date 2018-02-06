@@ -9,7 +9,7 @@
 <!--here a registration form starts-->
 <div class="container">
 
-           <!--  startiingworkiing with contact page -->
+           <!--  this is the cointainer were the contact information will bess -->
 
         </div>
     </div>
