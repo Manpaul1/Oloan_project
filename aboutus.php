@@ -12,7 +12,7 @@
         <div class="row" id="absolute">
             <div class="col-md-12">
 
-              <p class="lead">Why Oloan?<br>Online Loan System is the system which provide students to request and get responds of loan in online which make the loan system easy to use and students to get loan ealy than using manual system which cost more time in responding students requests.
+              <p class="lead"><h4>Why Oloan?</h4><br>Online Loan System is the system which provide students to request and get responds of loan in online which make the loan system easy to use and students to get loan ealy than using manual system which cost more time in responding students requests.
               These can be accomplished by fill up the loan application form and wait for approval
               from our loan officers and you would have your loan on time</p>
             </div><!-- ends col-6-->
@@ -21,20 +21,25 @@
          <div class="row" id="absolute">
             <div class="col-md-12">
 
-              <p class="lead">Vision Statement <br>
+              <p class="lead"><h4>Vision Statement</h4> <br>
              Vision. to be a centre of excellence for the provision of loans to 
              needy and eligible Tanzanian students of higher learning institutions.
               </p>
 
-              <p class="lead">Mission Statement <br>
+              <p class="lead"><h4>Mission Statement</h4> <br>
               Mission. to put in place a well managed and sustained revolving students’ loan fund to 
               enhance access to higher education by needy and eligible Tanzanian students’
               </p>
-              <p class="lead">Core Value<br>
+              <p class="lead"><h4>Core Value</h4><br>
               The core values which will guide Oloan in achieving its objectives are;team work,transparency, 
               accountability, commitment, integrity, and equity.
               </p>
             </div><!-- ends col-6-->
+             <div class="col-md-12">
+             <h3>Strategic Objective</h3>
+
+             </div>
+
         </div>
 
 
