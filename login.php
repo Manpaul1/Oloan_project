@@ -10,7 +10,7 @@
 <div class="container">
 
                 <div class="col-md-5">
-                    <legend class="text-center">For A Registred Member</legend>
+                    <legend class="text-center">For A Registred Individual</legend>
             <!--login form starts here -->
 
                             <div class="container"></div>
