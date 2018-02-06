@@ -22,7 +22,7 @@
           <h2 class="page-header">How to Apply for a loan.<br>
              <span class="text-muted">It's Easy</span></h2>
           <p class="lead">YEs! you just need a Membership account and then after being full Registred<br>You will fill up the loan application form and wait for approval
-        from our loan officers<br> and you would have your loan in no time</p>
+        from our loan officers<br> and you would have your loan in no time.But you must qualify for being loan beneficiary,you must have some evidences which shows qualifications in loan application</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid mx-auto" src="image/home.jpg" alt="Generic placeholder image">
@@ -33,7 +33,7 @@
              <br>
              <p>
                  We are available in week days, Monday to Friday. <br>
-                 <br>Please! Feel free to contact us through this number 0656 504157
+                 <br>Please! Feel free to contact us through this number 0656 504157.Or you may find us through the following email.loan12@gmail.com.Also you visit different social medis such as facebook
              </p>
              </div>
       </div>
