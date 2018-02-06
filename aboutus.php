@@ -32,7 +32,7 @@
               </p>
               <p class="lead">Core Value<br>
               The core values which will guide HESLB in achieving its objectives are;team work,transparency, 
-              accountability, commitment, integrity, and equity.
+              accountability, commitment, integrity, and equity.These are the very imporyant components in loan application implementation. There should be transparency and accountability to enhance efficiency in loan provision
               </p>
             </div><!-- ends col-6-->
         </div>
