@@ -31,7 +31,7 @@
      </div>
     </section>
 
-<!--Footer-->
+<!--The Footer-->
 <footer id="footer">
      <!--Container-->
      <div class="continer-fluid" id="footer">
