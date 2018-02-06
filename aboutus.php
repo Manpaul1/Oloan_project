@@ -21,12 +21,18 @@
          <div class="row" id="absolute">
             <div class="col-md-12">
 
-              <p class="lead">Vision and Mission<br>Vision Statement <br>
-              The Vision of the Oloan is to become a world class centre of academic and professional excellence and agent for change in financial studies and related disciplines.
+              <p class="lead">Vision Statement <br>
+             Vision. to be a centre of excellence for the provision of loans to 
+             needy and eligible Tanzanian students of higher learning institutions.
               </p>
 
               <p class="lead">Mission Statement <br>
-              The Institute of Finance Management will endeavour to provide quality academic and professional training that nurture creativity and innovation through integrated training, research and consultancy in financial studies and related disciplines.
+              Mission. to put in place a well managed and sustained revolving students’ loan fund to 
+              enhance access to higher education by needy and eligible Tanzanian students’
+              </p>
+              <p class="lead">Core Value<br>
+              The core values which will guide HESLB in achieving its objectives are;team work,transparency, 
+              accountability, commitment, integrity, and equity.
               </p>
             </div><!-- ends col-6-->
         </div>
