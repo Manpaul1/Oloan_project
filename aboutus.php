@@ -59,7 +59,7 @@ the essence of OLOAN Strategic Plan 2011-2014 is to look for strategies of imple
  2011-2014 period.
  </p>
 
-<p class="lead">1.3.1 Strategic Objective One: Improve Recovery of HESLB’s Loaned Funds</p>
+<p class="lead">1.3.1 Strategic Objective One: Improve Recovery of OLOAN’s Loaned Funds</p>
 
 <p class="lead">1.3.2 Strategic Objective Two: Strengthen OLOAN’s Operational Capacity for efficient 
 issuance of Loans.</p>
