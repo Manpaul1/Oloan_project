@@ -25,8 +25,8 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="lastname"><span class="req">* </span> Last name: </label>
-                        <input class="form-control" type="text" name="lastname" id = "txt" onkeyup = "Validate(this)" placeholder="hyphen or single quote OK" required />
+                    <label for="surname"><span class="req">* </span> Last name: </label>
+                        <input class="form-control" type="text" name="surname" id = "txt" onkeyup = "Validate(this)" placeholder="hyphen or single quote OK" required />
                             <div id="errLast"></div>
                 </div>
 
