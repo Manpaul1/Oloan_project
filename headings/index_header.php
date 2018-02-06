@@ -4,10 +4,10 @@
               <div class="inner">
                 <h1 class="masthead-brand">E-loan</h1>
                 <nav class="nav nav-masthead">
-                  <a class="nav-link active" href="index.php">Home</a>
-                  <a class="nav-link" href="loan.php">Loans</a>
-                  <a class="nav-link" href="contact.php">Contact</a>
-                  <a class="nav-link" href="aboutus.php">About Us</a>
+                  <a class="nav-link active" href="index.php">HOME</a>
+                  <a class="nav-link" href="loan.php">LOANS</a>
+                  <a class="nav-link" href="contact.php">CONTACTS</a>
+                  <a class="nav-link" href="aboutus.php">ABOUT US</a>
                 </nav>
               </div>
             </div>
