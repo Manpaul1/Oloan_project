@@ -37,6 +37,43 @@
             </div><!-- ends col-6-->
              <div class="col-md-12">
              <h3>Strategic Objective</h3>
+             <h5>1. HESLB’s Main and Strategic Objectives</h5>
+
+
+<p class="lead">1.2 The main objective of HESLB is to assist on a loan basis, 
+needy Tanzanian students who secure admission in accredited higher learning institutions, 
+but who have no economic power to pay for the costs of their education. in order to sustain its 
+activities HESLB is entrusted with the task of collecting due loans from previous loan beneficiaries 
+given loans by the government since 1994, in order to have a revolving fund in place. Accordingly the
+ powers of HESLB are; to administer both movable and immovable property(ies) of the Board, to
+  borrow money for any purpose deemed fit by the Board, to determine other criteria and conditions
+   governing the granting, the interest rate and recovery of loans and, to determine the number of needy 
+   eligible students to granted loans yearly.
+   </p>
+
+<p class="lead">1.3 Strategic Objectives
+the essence of HESLB Strategic Plan 2011-2014 is to look for strategies of implementing the Board’s 
+ objectives including formulation of strategic objectives which, when effectively implemented culminates 
+ into attaining of the main objectives. The stakeholder’s analysis and the internal environmental scan of 
+ the Board have identified five strategic objectives to guide the attainment of HESLB’s main objectives during 
+ 2011-2014 period.
+ </p>
+
+<p class="lead">1.3.1 Strategic Objective One: Improve Recovery of HESLB’s Loaned Funds</p>
+
+<p class="lead">1.3.2 Strategic Objective Two: Strengthen HESLB’s Operational Capacity for efficient 
+issuance of Loans.</p>
+
+<p class="lead">1.3.3 Strategic Objective Three: Enhancing HESLB’s Financial Sustainability</p>
+
+<p class="lead">1.3.4 Strategic Objective Four: Strengthen HESLB’s Institutional capacity for effective 
+management of HE Students’ loans.</p>
+
+<p class="lead">1.3.5 Strategic Objective Five: Enhancing HESLB’s planning, implementation, monitoring 
+and evaluation of activities.</p>
+
+
+
 
              </div>
 
